@@ -1,0 +1,1 @@
+java -cp productPriceMatch-1.0-jar-with-dependencies.jar PriceMatch products.txt listings.txt
